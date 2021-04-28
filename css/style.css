@@ -111,8 +111,7 @@ button:hover {
   }
 
   .map {
-    width: 225;
-    height: 150;
+display: none;
   }
 }
 
